@@ -151,19 +151,6 @@ The website was developed with AI-assisted frontend support for UI design, conte
 <img width="1920" height="1080" alt="Website Preview" src="https://github.com/user-attachments/assets/e80b8488-eb9f-4b10-8e59-97de2678138d" />
 
 
-# 🤖 AI Usage Disclosure
-
-Artificial Intelligence was used as a productivity and documentation assistant during this project.
-
-AI assistance was primarily used for:
-
-- Documentation website development
-- Content structuring
-- UI/UX refinement
-- Documentation formatting
-
-All data cleaning, KPI creation, Power BI dashboard development, analysis, and business insights were performed manually by the project author.
-
 ---
 
 # 👨‍💻 Author
