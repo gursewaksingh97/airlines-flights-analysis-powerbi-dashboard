@@ -144,22 +144,10 @@ Documentation Website
 
 # 🌐 Documentation Website
 
-Project documentation is available through a dedicated project website containing:
-
-- Problem Statement
-- Data Dictionary
-- Data Cleaning Workflow
-- KPI Documentation
-- Dashboard Documentation
-- Business Insights
-- Repository Information
-
-### Website Development
-
 A dedicated project documentation website was developed to present the complete analytics workflow, dashboard documentation, KPI explanations, business insights, and project resources in a structured and user-friendly format.
 
 The website was developed with AI-assisted frontend support for UI design, content organization, and documentation presentation, while all data preparation, analysis, dashboard development, KPI creation, and business insights were performed manually as part of the project.
----
+
 <img width="1920" height="1080" alt="Website Preview" src="https://github.com/user-attachments/assets/e80b8488-eb9f-4b10-8e59-97de2678138d" />
 
 
